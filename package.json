@@ -1,0 +1,22 @@
+{
+  "name": "gpt40-chatgpt-simple-question",
+  "version": "1.0.0",
+  "description": "Asking a simple question for GPT-4",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GPT",
+    "4.0",
+    "API"
+  ],
+  "author": "Željko Eremić PhD",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.21.0"
+  }
+}
